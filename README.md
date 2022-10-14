@@ -1,8 +1,3 @@
-
-<style>
-body { background-color: #000 !important; }
-</style>
-
 ### **<font color="white">PBR角色建模</font>**
 
 - **<font color="white">角色</font>**<font color="white">渲染</font> <font size = 2，font color="white">*8k*</font>

@@ -4,7 +4,7 @@
   
 
 
-|![frontwholeoriginal.png](../Image/frontwholeoriginal.png)| 
+|![frontwholeoriginal.png](https://github.com/ggnnggez/Lambert01/blob/main/Image/frontwholeoriginal.png)| 
 |:--:| 
 | *<font color="white">正面全身</font>* |
 

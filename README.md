@@ -4,7 +4,7 @@
   
 
 
-|![frontwholeoriginal.png](Image\frontwholeoriginal.png)| 
+|![frontwholeoriginal.png](Lambert01\Image\frontwholeoriginal.png)| 
 |:--:| 
 | *<font color="white">正面全身</font>* |
 

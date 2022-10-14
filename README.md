@@ -4,7 +4,7 @@
   
 
 
-|![frontwholeoriginal.png](image\frontwholeoriginal.png)| 
+|![frontwholeoriginal.png](Image\frontwholeoriginal.png)| 
 |:--:| 
 | *<font color="white">正面全身</font>* |
 
